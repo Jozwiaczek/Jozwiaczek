@@ -1,4 +1,4 @@
-<img src="./me.png" alt="Kuba with mac" width="100%" />
+<img src="https://raw.githubusercontent.com/Jozwiaczek/Jozwiaczek/master/me.png" alt="banner that says Hi, I'm Kuba - Software Engineer" width="100%">
 
 ## About me 
 
