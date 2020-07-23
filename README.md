@@ -1,4 +1,4 @@
-<img src="me.png" alt="Kuba with mac" width="100%" />
+<img src="./me.png" alt="Kuba with mac" width="100%" />
 
 ## About me 
 
