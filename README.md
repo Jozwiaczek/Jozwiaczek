@@ -8,6 +8,9 @@ I'm 22 years old, Computer Science student. I'm in love with JAMStack, ReactJS a
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kubencki@gmail.com)](mailto:kubencki@gmail.com)
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 ![Jozwiaczek github stats](https://github-readme-stats.vercel.app/api?username=jozwiaczek&count_private=true&show_icons=true)
