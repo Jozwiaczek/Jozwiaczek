@@ -19,6 +19,8 @@ No Activity tracked this Week
 <!--
 https://shields.io/
 https://ezgif.com/svg-to-png
+https://github.com/athul/waka-readme#update-your-readme
+https://github.com/anuraghazra/github-readme-stats
 **Jozwiaczek/Jozwiaczek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
