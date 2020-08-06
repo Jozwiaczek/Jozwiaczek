@@ -57,6 +57,9 @@ I'm 22 years old, Computer Science student. I'm in love with JAMStack, ReactJS a
 [![Adobe Illustrator](https://img.shields.io/badge/-Adobe_Illustrator-gray?style=for-the-badge&logo=Adobe-Illustrator)](https://github.com/Jozwiaczek/)
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <!--
