@@ -9,7 +9,7 @@ I'm 22 years old, Computer Science student. I'm in love with JAMStack, ReactJS a
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 September, 2020 - 19 September, 2020
+Week: 13 September, 2020 - 20 September, 2020
 
 JavaScript   15 hrs 59 mins  ███████████░░░░░░░░░░░░░░   43.42 % 
 JSX          15 hrs 57 mins  ██████████▓░░░░░░░░░░░░░░   43.31 % 
