@@ -9,13 +9,13 @@ I'm 22 years old, Computer Science student. I'm in love with JAMStack, ReactJS a
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 October, 2020 - 25 October, 2020
+Week: 19 October, 2020 - 26 October, 2020
 
-TypeScript   21 hrs 5 mins   ███████████████▓░░░░░░░░░   62.24 % 
-JavaScript   9 hrs 19 mins   ███████░░░░░░░░░░░░░░░░░░   27.52 % 
-HTML         2 hrs 11 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-JSON         1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
-Other        12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+JavaScript   21 hrs 50 mins  ███████████████████░░░░░░   75.64 % 
+Markdown     2 hrs 22 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+JSON         1 hr 54 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+TypeScript   1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+YAML         51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 ```
 <!--END_SECTION:waka-->
 
