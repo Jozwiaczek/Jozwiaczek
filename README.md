@@ -9,13 +9,13 @@ I'm 22 years old, Computer Science student. I'm in love with JAMStack, ReactJS a
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 January, 2021 - 27 January, 2021
+Week: 21 January, 2021 - 28 January, 2021
 
-TypeScript   35 hrs 35 mins  ████████████████████▓░░░░   82.43 % 
-JSON         1 hr 55 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-TeX          1 hr 41 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-Other        1 hr 29 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-sh           41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+TypeScript   19 hrs 7 mins   ████████████▒░░░░░░░░░░░░   48.87 % 
+JavaScript   11 hrs 39 mins  ███████▒░░░░░░░░░░░░░░░░░   29.81 % 
+Other        2 hrs 40 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+JSON         1 hr 56 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+Perl         1 hr 52 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
 ```
 <!--END_SECTION:waka-->
 
