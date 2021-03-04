@@ -2,8 +2,6 @@
 
 ## About me 
 
-I'm 22 years old, Computer Science student. I'm in love with JAMStack, ReactJS and its ecosystem 💙. Still learning and discovering new stuff! 
-
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jozwiakjakub/)](https://www.linkedin.com/in/jozwiakjakub/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kubencki@gmail.com)](mailto:kubencki@gmail.com)
 
