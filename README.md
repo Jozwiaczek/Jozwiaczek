@@ -7,13 +7,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 April, 2021 - 25 April, 2021
+Week: 19 April, 2021 - 26 April, 2021
 
-TypeScript   31 hrs 31 mins  ████████████████░░░░░░░░░   64.14 % 
-JavaScript   6 hrs 21 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-JSON         4 hrs           ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-Other        3 hrs 5 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
-sh           1 hr 48 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+TypeScript   26 hrs 15 mins  ██████████████▒░░░░░░░░░░   56.83 % 
+JavaScript   6 hrs 10 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+JSON         4 hrs 17 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+Other        3 hrs 35 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+Markdown     2 hrs 27 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
 ```
 <!--END_SECTION:waka-->
 
