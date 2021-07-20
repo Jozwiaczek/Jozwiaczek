@@ -7,7 +7,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 July, 2021 - 18 July, 2021
+Week: 13 July, 2021 - 19 July, 2021
 
 TypeScript   29 hrs 35 mins  █████████████████████▒░░░   85.26 % 
 Other        2 hrs 46 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
