@@ -19,6 +19,10 @@ YAML         1 hr 50 mins    █▒░░░░░░░░░░░░░░░
 
 ![Jozwiaczek github stats](https://github-readme-stats.vercel.app/api?username=jozwiaczek&count_private=true&show_icons=true)
 
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=jozwiaczek&style=--header-bg-color:%23000;--border-radius:10px"
+/>
+
 
 <!--
 https://shields.io/
