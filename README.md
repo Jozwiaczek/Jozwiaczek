@@ -7,13 +7,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 September, 2021 - 19 September, 2021
+Week: 14 September, 2021 - 20 September, 2021
 
-TypeScript   33 hrs 19 mins  ███████████████████░░░░░░   75.71 % 
-JavaScript   4 hrs 45 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-Other        3 hrs 35 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-JSON         1 hr 9 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-sh           41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+TypeScript   11 hrs 17 mins  ███████████▓░░░░░░░░░░░░░   46.38 % 
+Other        7 hrs 27 mins   ███████▓░░░░░░░░░░░░░░░░░   30.61 % 
+JSON         2 hrs 18 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+JavaScript   1 hr 41 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+sh           1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
 ```
 <!--END_SECTION:waka-->
 
