@@ -7,7 +7,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 October, 2021 - 22 October, 2021
+Week: 17 October, 2021 - 23 October, 2021
 
 Bash         19 hrs          █████████████░░░░░░░░░░░░   52.03 % 
 Markdown     5 hrs 14 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.36 % 
