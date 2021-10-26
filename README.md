@@ -7,13 +7,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 October, 2021 - 24 October, 2021
+Week: 19 October, 2021 - 25 October, 2021
 
-Bash         20 hrs 34 mins  ███████████████░░░░░░░░░░   59.38 % 
-Other        5 hrs 8 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-TypeScript   4 hrs 50 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-Markdown     1 hr 59 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-Text         31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Bash         17 hrs 42 mins  ███████████████░░░░░░░░░░   59.55 % 
+Other        5 hrs 3 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.02 % 
+TypeScript   4 hrs 50 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
+Text         31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Perl         29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 ```
 <!--END_SECTION:waka-->
 
