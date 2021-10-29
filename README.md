@@ -7,7 +7,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 October, 2021 - 27 October, 2021
+Week: 22 October, 2021 - 28 October, 2021
 
 Bash         21 hrs 58 mins  ███████████████▒░░░░░░░░░   61.51 % 
 TypeScript   5 hrs 33 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
