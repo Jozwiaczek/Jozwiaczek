@@ -6,15 +6,14 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kubencki@gmail.com)](mailto:kubencki@gmail.com)
 
 <!--START_SECTION:waka-->
-```text
-From: 17 February, 2022 - To: 24 February, 2022
 
-TypeScript   5 hrs 31 mins   ██████████░░░░░░░░░░░░░░░   39.42 % 
-Other        3 hrs           █████▒░░░░░░░░░░░░░░░░░░░   21.38 % 
-Markdown     1 hr 33 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-JSON         1 hr 20 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-Bash         46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+```text
+From: 20 February 2022 - To: 27 February 2022
+
+TypeScript      5 hrs 27 mins   ██████████▓░░░░░░░░░░░░░░   42.14 %
+Other           3 hrs 45 mins   ███████▒░░░░░░░░░░░░░░░░░   28.97 %
 ```
+
 <!--END_SECTION:waka-->
 
 ![Jozwiaczek github stats](https://github-readme-stats.vercel.app/api?username=jozwiaczek&count_private=true&show_icons=true)
