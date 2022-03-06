@@ -8,10 +8,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 February 2022 - To: 27 February 2022
+From: 26 February 2022 - To: 05 March 2022
 
-TypeScript      5 hrs 27 mins   ██████████▓░░░░░░░░░░░░░░   42.14 %
-Other           3 hrs 45 mins   ███████▒░░░░░░░░░░░░░░░░░   28.97 %
+Markdown         3 hrs 49 mins   ██████░░░░░░░░░░░░░░░░░░░   24.50 %
+TypeScript       3 hrs 47 mins   ██████░░░░░░░░░░░░░░░░░░░   24.29 %
+Other            3 hrs 45 mins   ██████░░░░░░░░░░░░░░░░░░░   23.99 %
 ```
 
 <!--END_SECTION:waka-->
