@@ -8,7 +8,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 05 April 2022 - To: 12 April 2022
+
+Other                      1 hr 45 mins    ███████████▒░░░░░░░░░░░░░   45.31 %
 ```
 
 <!--END_SECTION:waka-->
