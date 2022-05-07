@@ -8,9 +8,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 April 2022 - To: 04 May 2022
+From: 29 April 2022 - To: 06 May 2022
 
-Other           4 hrs 45 mins   ████████████▓░░░░░░░░░░░░   50.82 %
+TypeScript      3 hrs 3 mins    █████████▒░░░░░░░░░░░░░░░   37.21 %
+Other           2 hrs 15 mins   ███████░░░░░░░░░░░░░░░░░░   27.44 %
 ```
 
 <!--END_SECTION:waka-->
